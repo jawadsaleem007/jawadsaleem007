@@ -1,55 +1,58 @@
-<div align="center">
+<p align="center">
+  <img src="assets/coding-room.png" alt="Pixel-art coding room overlooking a rainy city at night" width="100%" />
+</p>
 
-# Hi, I'm Jawad Saleem
+<h1 align="center">Hi 👋, I'm Jawad Saleem</h1>
 
-### Software Engineer · AI & Backend Systems
+<p align="center">
+  <strong>💻 Software Engineer | AI & ML Engineer | Python Backend Developer</strong><br />
+  🚀 Building AI-powered applications, RAG systems & scalable APIs<br />
+  📍 Islamabad, Pakistan
+</p>
 
-Building AI applications, reliable APIs, and data pipelines with Python.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=flat-square)](https://www.linkedin.com/in/jawad-saleem-2b8354246/)
-[![GitHub](https://img.shields.io/badge/GitHub-Explore_my_work-2563EB?style=flat-square&logo=github&logoColor=white)](https://github.com/jawadsaleem007?tab=repositories)
-
-Islamabad, Pakistan
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jawad-saleem-2b8354246/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="mailto:jawadsaleem007@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Jawad" /></a>
+  <a href="https://github.com/jawadsaleem007?tab=repositories"><img src="https://img.shields.io/badge/MY_PROJECTS-238636?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" /></a>
+</p>
 
 ---
 
-### About me
+## 📊 GitHub Stats & Top Languages
 
-I'm a software engineer focused on AI and backend systems. My work spans retrieval-augmented generation, LLM orchestration, machine learning, and the APIs and data pipelines that bring them together.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jawadsaleem007&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Jawad's GitHub stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jawadsaleem007&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top languages across public repositories" width="41%" />
+</p>
 
-I care about grounded answers, honest model evaluation, and software that remains useful when an AI provider is unavailable.
+<!-- Stats cards depend on an external service. If unavailable, remove this section or self-host github-readme-stats. Language percentages describe repository code, not proficiency. -->
 
-### Selected work
+---
 
-| Project | What I built | Core stack |
+## 🚀 Tech Stack & Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,fastapi,flask,postgres,mongodb,sqlite&theme=dark&perline=9" alt="Python, JavaScript, TypeScript, React, FastAPI, Flask, PostgreSQL, MongoDB, SQLite" /><br />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,docker,git,githubactions,aws,gcp,nginx&theme=dark&perline=9" alt="PyTorch, TensorFlow, scikit-learn, Docker, Git, GitHub Actions, AWS, GCP, nginx" />
+</p>
+
+<p align="center">
+  <strong>AI & LLMs:</strong> RAG · LangChain · LlamaIndex · Hugging Face · ChromaDB · Ollama<br />
+  <strong>Engineering:</strong> Async APIs · Data Pipelines · Model Evaluation · CI/CD · Automated Testing
+</p>
+
+---
+
+## 🛠️ Featured Projects
+
+| Project | What it does | Built with |
 | :--- | :--- | :--- |
-| **QeematPC** | A RAG assistant with semantic retrieval, intent routing, guardrails, and streamed responses in English, Urdu, and Roman Urdu. | Python · FastAPI · LangChain · ChromaDB · React |
-| **AlphaAI** | An ML forecasting and research platform with temporal validation, out-of-sample evaluation, and a versioned async API. | Python · scikit-learn · pandas · FastAPI · PostgreSQL |
-| **ReelsEdits** | A video style-transfer system using vision-language models for shot labelling, with confidence-aware predictions and cached inference. | Python · CLIP · SmolVLM · OpenCV · FFmpeg |
-
-### Toolkit
-
-**Languages**  
-Python · SQL · TypeScript / JavaScript
-
-**AI & machine learning**  
-RAG · LangChain · LlamaIndex · PyTorch · scikit-learn · Hugging Face · ChromaDB
-
-**Backend & delivery**  
-FastAPI · Flask · PostgreSQL · SQLAlchemy · Docker · GitHub Actions · pytest
-
-### Engineering priorities
-
-- Ground LLM responses in retrieved evidence and validate tool outputs.
-- Evaluate ML models with leakage-safe validation and explicit metrics.
-- Build async services with graceful fallbacks and automated checks.
+| **🤖 QeematPC** | RAG assistant with grounded retrieval, guardrails, and streamed English, Urdu & Roman Urdu responses. | FastAPI · LangChain · ChromaDB · React |
+| **📈 AlphaAI** | ML forecasting and research platform with leakage-safe validation and out-of-sample evaluation. | Python · scikit-learn · PostgreSQL |
+| **🎬 ReelsEdits** | Video style-transfer system with vision-language shot labelling and cached inference. | CLIP · SmolVLM · OpenCV · FFmpeg |
 
 ---
 
-<div align="center">
-
-Interested in AI applications, backend engineering, or data platforms? [Let's connect.](https://www.linkedin.com/in/jawad-saleem-2b8354246/)
-
-</div>
+<p align="center">
+  <em>Grounded AI. Reliable backends. Thoughtful engineering.</em>
+</p>
