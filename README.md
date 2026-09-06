@@ -18,12 +18,6 @@
 
 ---
 
-## 📊 GitHub Stats & Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jawadsaleem007&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Jawad's GitHub stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jawadsaleem007&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top languages across public repositories" width="41%" />
-</p>
 
 <!-- Stats cards depend on an external service. If unavailable, remove this section or self-host github-readme-stats. Language percentages describe repository code, not proficiency. -->
 
