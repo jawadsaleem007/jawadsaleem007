@@ -16,12 +16,6 @@
   <a href="https://github.com/jawadsaleem007?tab=repositories"><img src="https://img.shields.io/badge/MY_PROJECTS-238636?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" /></a>
 </p>
 
----
-
-
-<!-- Stats cards depend on an external service. If unavailable, remove this section or self-host github-readme-stats. Language percentages describe repository code, not proficiency. -->
-
----
 
 ## 🚀 Tech Stack & Languages
 
